@@ -12,8 +12,9 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/craigfisher-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="craigfisher-dev" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/firebro51" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firebro51" height="36" width="48" /></a>
+<a href="https://linkedin.com/in/craigfisher-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/firebro51" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="36" width="48" /></a>
+<a href="https://www.chess.com/stats/live/rapid/firebro51/0" target="blank"><img src="https://i.ibb.co/ccDPDRxc/chesscom-logo-pawn.png" alt="chess.com" height="40" width="27"/></a>
 </p>
 
 ## Languages & Tools:
