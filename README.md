@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on: [GlideFast](https://github.com/Firebro51/GlideFast)
 - 🌱 I'm currently learning: **Unity, C#**
 - 💬 Ask me about: **Unity/C#, chess, 3D simulations, game development**
-- ⚡ Fun fact: **I play chess at master-level, ranking in the top 99.9th percentile among millions of global players**
+- ⚡ Fun fact: **I play chess at master-level, ranked in the top 99.9th percentile among millions of global players**
 
 <div align="left">
 
