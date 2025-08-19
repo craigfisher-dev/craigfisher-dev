@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Craig Fisher</h1>
-<h3 align="center">Computer Science graduate specializing in Unity/C# development with experience creating immersive 3D simulations as well as fun games</h3>
+<h3 align="center">Computer Science graduate focusing on data science and analytics with hands-on experience in sports data applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firebro51&label=Profile%20views&color=0e75b6&style=flat" alt="firebro51" /> </p>
 
 - 🔭 I'm currently working on: [GlideFast](https://github.com/Firebro51/GlideFast)
-- 🌱 I'm currently learning: **Unity, C#**
-- 💬 Ask me about: **Unity/C#, chess, 3D simulations, game development**
+- 🌱 I'm currently learning: **Streamlit, PostgreSQL, Supabase, Sabermetrics**
+- 💬 Ask me about: **MLB analytics, baseball statistics, sports data visualization, sabermetrics**
 - ⚡ Fun fact: **I play chess at master-level, ranked in the top 99.9th percentile among millions of global players**
 
 <div align="left">
@@ -20,13 +20,17 @@
 ## Languages & Tools:
 
 <p align="left">
+<!-- Data Science & Analytics -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/></a>
 <!-- Game Development -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/></a>
-<!-- Programming Languages -->
+<!-- Other Programming Languages -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
 <!-- Web Development -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
