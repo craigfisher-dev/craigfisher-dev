@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firebro51&label=Profile%20views&color=0e75b6&style=flat" alt="firebro51" /> </p>
 
-- 🔭 I'm currently working on: [GlideFast](https://github.com/Firebro51/GlideFast)
+- 🔭 I'm currently working on: [mlb-playoff-race-tracker](https://github.com/Firebro51/mlb-playoff-race-tracker)
 - 🌱 I'm currently learning: **Streamlit, PostgreSQL, Supabase, Sabermetrics**
 - 💬 Ask me about: **MLB analytics, baseball statistics, sports data visualization, sabermetrics**
 - ⚡ Fun fact: **I play chess at master-level, ranked in the top 99.9th percentile among millions of global players**
@@ -25,6 +25,7 @@
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/></a>
+<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/5QVd7HS/render-seeklogo.png" alt="render" width="50" height="50"/></a>
 <!-- Game Development -->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/></a>
 <!-- Other Programming Languages -->
