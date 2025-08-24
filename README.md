@@ -46,6 +46,8 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="50" height="50"/></a>
 <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/d0BFCHgD/aseprite-seeklogo.png" alt="aseprite" width="47" height="50"/></a>
+<!-- AI Tools -->
+<a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/qMqX32B3/claude-ai-icon.png" alt="claude" width="47" height="50"/></a>
 </p>
 
 </div>
