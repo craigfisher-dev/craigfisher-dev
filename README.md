@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on: [mlb-playoff-race-tracker](https://github.com/Firebro51/mlb-playoff-race-tracker)
 - 🌱 I'm currently learning: **Streamlit, PostgreSQL, Supabase, Sabermetrics**
 - 💬 Ask me about: **MLB analytics, sports data visualization**
-- ⚡ Fun fact: **I play chess at master-level, ranked in the top 99.9th percentile among millions of global players**
+- ⚡ Fun fact: **Achieved peak rating of 2300 on Chess.com, ranking in the 99.9th percentile among millions of global players**
 
 <div align="left">
 
