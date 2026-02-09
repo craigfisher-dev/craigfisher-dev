@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Craig Fisher</h1>
 
-<h3 align="center">Software Engineer specializing in real-time 3D simulations and data visualizations in space, security, and sports</h3>
+<h3 align="center">Software Engineer specializing in real-time 3D simulations and data visualizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firebro51&label=Profile%20views&color=0e75b6&style=flat" alt="firebro51" /> </p>
 
