@@ -18,6 +18,6 @@
 ## Languages & Tools:
 
 <!-- Data Science & Analytics | Game Development | Other Programming Languages | Web Development | Databases & Other Tools | DevOps | Design & Creative Tools | AI Tools -->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,streamlit,postgres,supabase,unity,cs,c,java,ts,js,html,css,react,nodejs,express,mongodb,mysql,electron,docker,kubernetes,vercel,linux,git,github,vitest,pytest,figma,photoshop,xd,claude&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,streamlit,postgres,supabase,unity,cs,c,java,ts,js,html,css,react,nodejs,grafana,mongodb,mysql,electron,docker,kubernetes,vercel,linux,git,github,vitest,pytest,figma,photoshop,xd,claude&theme=dark)
 
 </div>
